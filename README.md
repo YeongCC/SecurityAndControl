@@ -26,7 +26,7 @@ System include:
 
 #### Attention
 !!--STMP Account(Sender Account)--!!
-- At the <a href="https://github.com/YeongCC/SecurityAndControl/blob/master/forgetPassword.php">forgetPassword.php</a> page , on line 38 and line 39 must put your own email and password, and remember must be google account.
+- At the <a href="https://github.com/YeongCC/SecurityAndControl/blob/main/forgotPassword.php">forgetPassword.php</a> page , on line 38 and line 39 must put your own email and password, and remember must be google account.
 - After that you must go to your google account manage page to find a setting call "Access to less secure apps" and enabled it
 
 !!--Register Account--!!
